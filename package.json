@@ -1,17 +1,16 @@
-
 {
-"name": "infi88",
-"theme": "infi88",
-"version": "2.1.3",
-"description": "infi88 สมัครเว็บไซต์บาคาร่าเว็บตรง คนเล่นเยอะ ให้เครดิตฟรี",
-"keywords": [
-"infi88",
-"infi88 เครดิตฟรี",
-"infi88 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/infi88",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "infi88",
+  "theme": "infi88",
+  "version": "2.2.0",
+  "description": "infi88 สมัครเว็บไซต์บาคาร่าเว็บตรง คนเล่นเยอะ ให้เครดิตฟรี",
+  "keywords": [
+    "infi88",
+    "infi88 เครดิตฟรี",
+    "infi88 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/infi88",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
